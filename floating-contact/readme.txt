@@ -2,7 +2,7 @@
 Contributors: cmsgeek
 Tags: floating,floating contact,contact button,feedback button,floating button
 Requires at least: 4.8
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2 or later
