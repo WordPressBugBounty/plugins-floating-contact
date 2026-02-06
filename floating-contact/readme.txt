@@ -2,7 +2,7 @@
 Contributors: cmsgeek
 Tags: floating,floating contact,contact button,feedback button,floating button
 Requires at least: 4.8
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2 or later
@@ -49,6 +49,8 @@ In previous versions there were problems with themes that used similar CSS funct
 3. Floating Contact Modal
 
 == Changelog ==
+= 2.9 =
+* CSS corrections
 = 2.8 =
 * Eliminate vulnerability
 = 2.7 =

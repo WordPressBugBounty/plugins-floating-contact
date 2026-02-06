@@ -2,7 +2,7 @@
 /*
 Plugin Name: Floating Contact Button
 Description: Integrates a floating contact button and opens an modal with your favorite contact form.
-Version: 2.8
+Version: 2.9
 Author: Christoph Nagel
 Author URI: https://www.just-a-web-developer.com
 Text Domain: floating-contact
